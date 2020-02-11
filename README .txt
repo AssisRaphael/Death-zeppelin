@@ -1,8 +1,16 @@
 _______________________________Death Zeppelin___________________________________
 
-Death Zeppelin é um jogo 3D onde o jogador controla um zepelin que sobrevoa uma pequena cidade. O zepelin está equipado com uma metraladora rotatoria e uma bomba nuclear, tornando possivel a destruiçao completa da cidade. Porém, seu ataque não será ignorado, um trem cruzando a ferrovia lança minas voadoras que perseguem seu zepelin e tentam te matar. Você tem tudo o que precisa para destrí-los, mas não será tão fácil vencê-los. E aí, vai encarar?
+Death Zeppelin é um jogo 3D onde o jogador controla um zepelin que sobrevoa uma pequena cidade. 
+O zepelin está equipado com uma metraladora rotatoria e uma bomba nuclear, tornando possivel a 
+destruiçao completa da cidade. Porém, seu ataque não será ignorado, um trem cruzando a ferrovia 
+lança minas voadoras que perseguem seu zepelin e tentam te matar. Você tem tudo o que precisa 
+para destrí-los, mas não será tão fácil vencê-los. E aí, vai encarar?
 
-Este jogo foi desenvolvido por Raphael de Assis Silva e Gleiston Guimarães de Assis Filho, estudantes do CEFET-MG como um trabalho prático da disciplina de computação gŕafica, cursada no segundo período da faculdade de Engenharia de Computação. O jogo é escrito em C e utiliza a biblioteca OpenGL. Todos os modelos presentes foram modelados e texturizados por Gleiston Guimarães e a jogabilidade foi desenvolvida por Raphael Assis. 
+Este jogo foi desenvolvido por Raphael de Assis Silva e Gleiston Guimarães de Assis Filho, estudantes
+do CEFET-MG como um trabalho prático da disciplina de computação gŕafica, cursada no segundo período
+da faculdade de Engenharia de Computação. O jogo é escrito em C e utiliza a biblioteca OpenGL. 
+Todos os modelos presentes foram modelados e texturizados por Gleiston Guimarães e a jogabilidade 
+foi desenvolvida por Raphael Assis. 
 
 __________________________________________________________________________________
 
