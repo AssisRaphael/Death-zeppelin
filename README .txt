@@ -29,8 +29,7 @@ sudo apt-get install libglew-dev 			#instala a glew
 sudo apt install libsoil-dev 				#instala a SOIL
 
 Após baixar as bibliotecas, basta acessar a pasta 'src' do projeto no terminal e digitar o comando 'make'. 
-Os arquivos do jogo
-serão carregados e inicializados. Em seguida basta utilizar o comando 'make run' para rodar o jogo.
+Os arquivos do jogo compilados. Em seguida basta utilizar o comando 'make run' para executar o jogo.
 
 __________________________________________________________________________________
 
