@@ -20,6 +20,10 @@ sudo apt install libsoil-dev 				#instala a SOIL
 Após baixar as bibliotecas, basta acessar a pasta `src` do projeto no terminal e digitar o comando `make`. 
 Os arquivos do jogo serão compilados e preparados para o uso. Em seguida basta utilizar o comando `make run` para executar o jogo. Caso ocorra algum problema nesse processo, tente usar o comando `make clean` para deletar os executáveis gerados e novamente usar `make` e `make run`.
 
+## Vídeo demonstrativo
+
+[![](http://img.youtube.com/vi/CUHQNu35LvI/0.jpg)](http://www.youtube.com/watch?v=CUHQNu35LvI "Vídeo desmonstrativo")
+
 ## Tutorial do jogo
 
 ​	Para controlar a movimentação do zepelin basta usar as teclas **w, a, s, d** igual na maioria dos jogos.  As teclas **'w'** e **'s'** movem para frente e para trás e também controlam a velocidade do zepelin. Apertando **'w'** duas vezes ele irá acelerar seu movimento para frente e ao apertar **'s'** ele irá reduzir sua velocidade (se estiver se movendo para frente) ou andar para trás (se estiver parado). 
